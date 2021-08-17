@@ -13,8 +13,7 @@ A FiveM script written in LUA that implements multiple necessary roleplay chat c
 * Drag and drop the resource into your resource folder
 * Add the following lines in server.cfg
 ```
-# chat command #
-ensure fivem-3dme
+ensure fivem-roleplaycommands
 ```
 
 # Support
