@@ -2,17 +2,17 @@
 A FiveM script written in LUA that implements multiple necessary roleplay chat commands.
 
 # Command Examples
-*/911 “allows the user to call 911” (global)
+* /911 “allows the user to call 911” (global)
 
-*/me “a player is doing an action” (proximity)
+* /me “a player is doing an action” (proximity)
 
-*/ooc "player is out of Character (global)
+* /ooc "player is out of Character (global)
 
-*/gme "a player is doing an action" (global)
+* /gme "a player is doing an action" (global)
 
-*/twt "a player is using Twotter" (global)
+* /twt "a player is using Twotter" (global)
 
-*/do "a player is doing an action" (proximity)
+* /do "a player is doing an action" (proximity)
 
 # Steps on installing
 * Drag and drop the resource into your resource folder
